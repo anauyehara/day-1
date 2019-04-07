@@ -1,0 +1,15 @@
+h1{
+    color:red;
+    font-weight:bold;
+}
+
+.green-text{
+    color:green;
+}
+
+p{
+    border: 1px solid rgb(0, 255, 149);
+}
+h2{
+    color: rgb(78, 59, 247);
+}
