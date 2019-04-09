@@ -1,6 +1,7 @@
 h1 { 
     color: darkgreen;
 }
+
 h2 { 
     color: blue;
 }
@@ -9,6 +10,14 @@ h3 {
 }
 
 
+.list-item {
+    font-family: fantasy;
+    font-size: 24px;
+    padding: 10px ;
+    text-align: center ;
+    border-style: dotted 1px;
+    margin: 10px;
+    background-color: yellow
 
-
-
+    
+    }
